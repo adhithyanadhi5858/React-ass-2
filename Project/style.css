@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar {
+    /* Base styles */
+    position: relative;
+  }
+  
+  .nav-menu {
+    display: flex;
+    /* ... */
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .dropdown-content {
+    display: none;
+    /* ... */
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .hamburger-menu {
+    display: none;
+    /* ... */
+  }
+  
+  /* Media query for smaller screens */
+  @media (max-width: 768px) {
+    .nav-menu {
+      display: none;
+    }
+  
+    .hamburger-menu {
+      display: block;
+    }
+  }
+

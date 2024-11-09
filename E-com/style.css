@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: #3d3b47;;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color:#FFFFFF;
+}
+.navbar-light .navbar-nav .nav-link {
+    color:#FFFFFF;
+    font-style: initial;
+    margin-left: 30px;
+}
+.collapse{
+    margin-left: 420px;
+}    

@@ -1,0 +1,31 @@
+Adithyan K
+8606630069 | adhithyanadhi5858@gmail.com | www.linkedin.com/in/adhithyan-k-c | Kasaragod,Kerala
+
+Summary
+Aspiring MERN Stack Developer currently enrolled in Entry Elevate, with hands-on experience in developing cloud-based applications for prominent companies like Uber, Zomato, and Facebook. Proficient in JavaScript, React, Node.js, and MongoDB, with a strong focus on delivering user-friendly web solutions.
+
+Experience
+MERN Stack Developer Intern
+Entry Elevate
+[Start Date] – Present
+
+Developed and maintained scalable web applications using the MERN stack, enhancing functionality and user experience.
+Collaborated with cross-functional teams to create cloud-based solutions for clients, including websites for Uber and Zomato.
+Implemented RESTful APIs and optimized database performance using MongoDB.
+Projects
+Uber Clone
+
+Designed and developed a user-friendly interface for ride-sharing services, focusing on real-time location tracking and booking features.
+Zomato Clone
+
+Created a food delivery platform, integrating features like restaurant listings, user reviews, and payment gateways.
+Education
+MERN Stack Development Course
+Entry Elevate
+[Graduation Year] (if applicable)
+
+Skills
+
+Proficient in: JavaScript, React, Node.js, Express.js, MongoDB
+Familiar with: RESTful APIs, Git, Agile methodologies
+Strong problem-solving and teamwork skills

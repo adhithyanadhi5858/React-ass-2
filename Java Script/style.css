@@ -1,0 +1,64 @@
+.cover-page {
+    height: 100vh;
+    background-image: url("https://www.shutterstock.com/image-illustration/80s-retro-futurism-background-260nw-1232789431.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .cover-page h1 {
+    font-size: 4rem;
+    color: white;
+    text-align: center;
+    animation: fadeIn 1s ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 4s;
+  }
+  
+  @keyframes fadeIn {
+    0%   {color: red;}
+    25%  {color: yellow;}
+    50%  {color: blue;}
+    100% {color: green;}
+  }
+
+  .clamb {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border-radius: 50px;
+
+  }
+  
+  @keyframes example {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+  }
+  .cover-page img {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border-radius: 50px;
+
+  }
+  
+  @keyframes slideInLeft {
+    0%   {width: 10px;left:0px; top:0px;}
+    25%  {width: 30px;left:200px; top:0px;}
+    50%  {width: 50px;left:200px; top:200px;}
+    75%  {width: 70px;left:0px; top:200px;}
+    100% {width: 90px;left:0px; top:0px;}
+  }

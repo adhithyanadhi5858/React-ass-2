@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: rgb(180, 180, 180);
+    width: 100%;
+    
+}    
+.d-flex {
+    display: flex !important;
+    margin-right: 60px;
+}
+.nav-item{
+    margin-left: 40px;
+}
+.sec-one{
+    width: 100%;
+    
+}
+
